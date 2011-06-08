@@ -1,0 +1,105 @@
+COPYRIGHT AND DISCLAIMER
+This application is opensource software released under the GPL.
+Please see source code and the LICENSE.txt file.
+
+-----------------------------------------------------------------------
+
+CHANGELOGS
+Thanks to all those people who've contributed bug reports and code fixes
+
+-----------------------------------------------------------------------
+22-Jan-2010
+	Fix weird looks in system message facebook dan on the fly style [van]
+
+18-Jan-2010
+	Add Bebas cufon font type, see credits [van]
+
+15-Jan-2010
+	Add default skin, Malangnews [van]
+	Add Andika cufon font type, see credits [van]
+	Add dropdown horz menu css [heru]
+	Modification to modules.php to add new menu style [van]
+	Add new module type to options dir, dropdown-vert, upward [van]
+	Add text-align left to poll table TD [van]
+
+
+Rumi Framework Credits
+A Joomla! 1.5 Template Framework
+-----------------------------------------------------------------------
+DEVELOPERS
+-----------------------------------------------------------------------
+Revandi M			Lead Developer [code, design, documentation]
+Heru Herlambang		Co Developer [design, documentation]
+
+-----------------------------------------------------------------------
+Rumi Framework includes or is derivative of works distributed under the licenses listed below. The original copyright notices have been preserved within the respective files and or packages. Please refer to the specific files and/or packages for more detailed information about the authors, copyright notices, and licenses.
+-----------------------------------------------------------------------
+
+
+CSS RESET
+	Author		Eric Meyer
+	Copyright		Eric Meyer
+	License		Free
+	Website		http://meyerweb.com/eric/tools/css/reset/
+
+
+CHUNKFIVE FONT TYPE
+	Author		The League of Moveable Type
+	Copyright		The League of Moveable Type,
+	License		SIL OPEN FONT LICENSE Version 1.1 - 26 Feb 2007
+	Website		http://www.fontsquirrel.com/fonts/ChunkFive
+				http://www.fontsquirrel.com/license/ChunkFive
+
+CODEPRESS EDITOR
+	Author		Fernando M.A.d.S. <fermads@gmail.com>
+	Copyright		Fernando M.A.d.S. <fermads@gmail.com>
+	License		GNU Lesser General Public License
+	Website		http://codepress.org/
+
+
+AJAX UPLOAD
+	Author		Andris Valums
+	Copyright		Andris Valums
+	License		MIT license ( http://valums.com/mit-license/ )
+	Website		http://valums.com/ajax-upload/
+
+
+JAVASCRIPT BASE64 ENCODE/DECODE
+	Author		http://www.webtoolkit.info/
+	Copyright		http://www.webtoolkit.info/
+	License		Creative Common Attribution 2.0
+				UK: England & Wales
+	Website		http://www.webtoolkit.info/
+				http://www.webtoolkit.info/licence
+				http://creativecommons.org/licenses/by/2.0/uk/
+
+
+CUFON
+	Author		Simo Kinnunen
+	Copyright		Simo Kinnunen
+	License		MIT license
+	Website		http://cufon.shoqolate.com/generate/
+
+
+BROWSER DETECTION
+	Author		Chris Schuld
+	Copyright		Copyright (C) 2008-2009 Chris Schuld
+	License		http://www.gnu.org/licenses/gpl-2.0.html
+	Website		http://chrisschuld.com/
+
+
+ANDIKA FONT TYPE
+	Author		SIL International
+	Copyright		SIL International
+	License		SIL OPEN FONT LICENSE Version 1.1 - 26 Feb 2007
+	Website		http://www.fontsquirrel.com/fonts/Andika-Basic
+				http://www.fontsquirrel.com/license/Andika-Basic
+
+
+BEBAS FONT TYPE
+	Author		Ryoichi Tsunekawa, Flat-it
+	Copyright		Flat-it
+	License		Freeware
+	Website		http://www.fontsquirrel.com/fonts/Bebas
+				http://www.fontsquirrel.com/license/Bebas
+
